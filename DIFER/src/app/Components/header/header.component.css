@@ -1,0 +1,28 @@
+.icons{
+    height: auto;
+    width: auto; 
+    margin: auto ;
+
+}
+
+.test{
+    border-width: 1px;
+    border-color: darkorchid;
+    border-style: solid;
+    margin: auto;
+}
+
+.row{
+    margin: auto;
+}
+
+#logo{
+    height: 30px;
+    width: auto; 
+    margin: 10px 15px;
+}
+
+.nav-wrapper{
+    background-color:#F6EEF6 ;
+    text-emphasis-color: #000000;
+}

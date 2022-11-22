@@ -1,0 +1,14 @@
+#logo{
+    height: 500px;
+    width: auto; 
+    margin: 0px 0px;
+}
+
+.nav-wrapper{
+    background-color:#FFFFFF;
+    text-emphasis-color: #000000;
+}
+
+.row{
+    margin: 0px;
+}
