@@ -1,18 +1,17 @@
 #logo{
     height: 50px;
     width: auto; 
-    margin: 0px 0px
+    margin: 0px 0px;
+
 }
 
 #stream{
     height: 500px;
-    width: auto; 
-    margin: 0px 0px;
+    margin: 50px 0px;
 }
 
 .nav-wrapper{
     background-image:url("../../../assets/resources/WEB BG.png");
-    text-emphasis-color: #000000;
 }
 
 .row{
@@ -21,31 +20,150 @@
 
 .ed-textHeader{
     color: #5E581B;
-    text-align-last: center;
     font-weight: bold;
+    position: absolute;
+    top: 250px;
+    right:350px;
 }
 
 .ed-textHeader2{
     color: #5E581B;
-    text-align:center;
     font-weight:500;
+    position: absolute;
+    top: 295px;
+    right:300px;
 }
 .ed-textBtext{
     color: #596d6b;
-    text-size-adjust:initial;
     font-weight:lighter;
+    text-align: justify;
+    position: absolute;
+    top: 330px;
+    right:195px;
+    
 }
 
 .ed-textBtext2{
     color: #596d6b;
-    text-size-adjust:initial;
     font-weight:500;
+    position: absolute;
+    top: 750px;
+    left:500px;
 }
 
-.card-content{
-    border-width: 0px;
-    background-color: transparent;
-    border-color: transparent;
-    height: 500px;
-    width: auto;
+
+.cl1{
+    position: absolute;
+    top: 775px;
+    right:200px;
+}
+
+.cl2{
+    position: absolute;
+    top: 775px;
+    right:400px;
+}
+
+.cl3{
+    position: absolute;
+    top: 850px;
+    right:200px;
+}
+
+.cl4{
+    position: absolute;
+    top: 850px;
+    right:400px;
+}
+
+.cl5{
+    position: absolute;
+    top: 925px;
+    right:200px;
+}
+
+.cl6{
+    position: absolute;
+    top: 925px;
+    right:400px;
+}
+
+.cl7{
+    position: absolute;
+    top: 1000px;
+    right:200px;
+}
+
+.cl8{
+    position: absolute;
+    top: 1000px;
+    right:400px;
+}
+
+.cl9{
+    position: absolute;
+    top: 1075px;
+    right:200px;
+}
+
+.cl10{
+    position: absolute;
+    top: 1075px;
+    right:400px;
+}
+
+.cl11{
+    position: absolute;
+    top: 1150px;
+    right:200px;
+}
+
+.cl12{
+    position: absolute;
+    top: 1150px;
+    right:400px;
+}
+
+.cl13{
+    position: absolute;
+    top: 1225px;
+    right:200px;
+}
+
+.cl14{
+    position: absolute;
+    top: 1225px;
+    right:400px;
+}
+
+.cl15{
+    position: absolute;
+    top: 1300px;
+    right:200px;
+}
+
+.cl16{
+    position: absolute;
+    top: 1300px;
+    right:400px;
+}
+
+.cl17{
+    position: absolute;
+    top: 1375px;
+    right:200px;
+}
+
+.cl18{
+    position: absolute;
+    top: 1375px;
+    right:400px;
+}
+
+
+
+
+.nav-wrapper2{
+    background-color:#fff;
+    text-emphasis-color: #000000;
 }

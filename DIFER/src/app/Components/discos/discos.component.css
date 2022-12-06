@@ -1,8 +1,10 @@
 #logo{
     height: 500px;
     width: auto; 
-    margin: 50px 50px;
+    margin: 10px 50px;
 }
+
+
 
 .nav-wrapper2{
     background-color:#fff;
@@ -11,17 +13,27 @@
 
 .nav-wrapper{
     background-image:url("../../../assets/resources/WEB BG.png");
-    text-emphasis-color: #000000;
 }
 
+/*
 .row{
+    height: auto;
     margin: 0px;
+}*/
+
+.cl1{
+    height: auto;
+    margin:0px;
+}
+
+.cl2{
+    margin: 60px;
 }
 
 .ed-text{
     color: #5E581B;
-    text-align-last: center;
-    margin: 50px 50px;
+    text-align: center;
+    font-weight:bolder;
 }
 
 .card-content{

@@ -4,7 +4,7 @@ import { DiscosComponent } from './Components/discos/discos.component';
 import { AlbumSpecialComponent } from './Components/album-special/album-special.component';
 
 const routes: Routes = [
- {path: '', component: DiscosComponent },
+ {path: 'musica', component: DiscosComponent },
  {path: 'albumSpecial', component:AlbumSpecialComponent}
 ];
   
