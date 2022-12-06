@@ -4,6 +4,11 @@
     margin: 50px 50px;
 }
 
+.nav-wrapper2{
+    background-color:#fff;
+    text-emphasis-color: #000000;
+}
+
 .nav-wrapper{
     background-image:url("../../../assets/resources/WEB BG.png");
     text-emphasis-color: #000000;
@@ -16,6 +21,7 @@
 .ed-text{
     color: #5E581B;
     text-align-last: center;
+    margin: 50px 50px;
 }
 
 .card-content{
