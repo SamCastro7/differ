@@ -5,10 +5,23 @@
 }
 
 .nav-wrapper{
-    background-color:#FFFFFF;
+    background-image:url("../../../assets/resources/WEB BG.png");
     text-emphasis-color: #000000;
 }
 
 .row{
     margin: 0px;
+}
+
+.ed-text{
+    color: #5E581B;
+    text-align-last: center;
+}
+
+.card-content{
+    border-width: 0px;
+    background-color: transparent;
+    border-color: transparent;
+    height: 500px;
+    width: auto;
 }
