@@ -7,6 +7,7 @@ import { FooterComponent } from './Components/footer/footer.component';
 import { HeaderComponent } from './Components/header/header.component';
 import { BodyComponent } from './Components/body/body.component';
 import { DiscosComponent } from './Components/discos/discos.component';
+import { AlbumSpecialComponent } from './Components/album-special/album-special.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { DiscosComponent } from './Components/discos/discos.component';
     FooterComponent,
     HeaderComponent,
     BodyComponent,
-    DiscosComponent
+    DiscosComponent,
+    AlbumSpecialComponent
   ],
   imports: [
     BrowserModule,

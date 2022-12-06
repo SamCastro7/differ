@@ -1,0 +1,51 @@
+#logo{
+    height: 50px;
+    width: auto; 
+    margin: 0px 0px
+}
+
+#stream{
+    height: 500px;
+    width: auto; 
+    margin: 0px 0px;
+}
+
+.nav-wrapper{
+    background-image:url("../../../assets/resources/WEB BG.png");
+    text-emphasis-color: #000000;
+}
+
+.row{
+    margin: 0px;
+}
+
+.ed-textHeader{
+    color: #5E581B;
+    text-align-last: center;
+    font-weight: bold;
+}
+
+.ed-textHeader2{
+    color: #5E581B;
+    text-align:center;
+    font-weight:500;
+}
+.ed-textBtext{
+    color: #596d6b;
+    text-size-adjust:initial;
+    font-weight:lighter;
+}
+
+.ed-textBtext2{
+    color: #596d6b;
+    text-size-adjust:initial;
+    font-weight:500;
+}
+
+.card-content{
+    border-width: 0px;
+    background-color: transparent;
+    border-color: transparent;
+    height: 500px;
+    width: auto;
+}
